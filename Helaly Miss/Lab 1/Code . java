@@ -1,0 +1,38 @@
+
+import java.util.Scanner;
+
+public class BankAccount {
+    // Instance variable
+    public String name;
+    public double balance;
+
+    // Constructor
+    public BankAccount(String name, double initialBalance) {
+        this.name = name;
+        this.balance = initialBalance;
+    }
+
+    public void deposit(double amount) {
+        balance = balance + amount;
+    }
+
+    public void withdraw(double amount) {
+        if (amount <= balance)
+            balance = balance - amount;
+        else
+            System.out.println("Insufficient");
+    }
+
+    public double getBalance() {
+        return balance;
+    }
+
+    public static void main(String[] args) {
+        BankAccount account = new BankAccount("John", 1000.0);
+
+        account.deposit(500.0);
+        account.withdraw(200.0);
+
+        System.out.println("Current balance: " + account.getBalance());
+    }
+}
