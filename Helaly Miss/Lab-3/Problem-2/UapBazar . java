@@ -1,0 +1,10 @@
+class UapBazar {
+    public static void main(String[] args) {
+        Product product = new Product("iPhone", 1025, "Phone", 54000.0);
+        product.display();
+        product.updatePrice(60500.0); 
+        product.display();
+        double discountedPrice = product.getDiscountedPrice(20);
+        System.out.println("Discounted Price: " + discountedPrice);
+    }
+}
