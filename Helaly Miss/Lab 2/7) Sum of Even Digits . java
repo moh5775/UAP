@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class EvenDigits {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int a = input.nextInt();
+        int rem = 0;
+        int sum = 0;
+        while (a != 0) {
+            rem = a % 10;
+            if (rem % 2 == 0)
+                sum = sum + rem;
+            a = a / 10;
+        }
+        System.out.println("Summation of even digits: " + sum);
+    }
+}
