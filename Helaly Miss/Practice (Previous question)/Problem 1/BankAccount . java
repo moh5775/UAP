@@ -1,0 +1,31 @@
+package Lab4;
+
+public class BankAccount {
+    String name,accNum;
+    double balance;
+    public BankAccount(String name,String accNum,double balance)
+    {
+    	this.accNum=accNum;
+    	this.balance=balance;
+    	this.name=name;
+    }
+    public void deposit(double depAmount)
+    {
+    	balance=balance+depAmount;
+    }
+    public void withdraw(double withAmount)
+    {
+    	if(withAmount<=balance)
+    		balance=balance-withAmount;
+    	else
+    		System.out.print("Insufficient balance");
+    }
+    public double getBalance()
+    {
+    	return balance;
+    }
+    public void display()
+    {
+    	System.out.print("Name: "+name+"\nAccount Number: "+accNum+"\nBalance: "+balance);
+    }
+}
