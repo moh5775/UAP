@@ -1,29 +1,33 @@
-class Product {
-    public String name;
-    public int id;
-    public String category;
-    private double price;
+package Lab3;
 
-    public Product(String name, int id, String category, double price) {
-        this.name = name;
-        this.id = id;
-        this.category = category;
-        this.price = price;
-    }
-
-    public void updatePrice(double newPrice) {
-        this.price = newPrice;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public double getDiscountedPrice(double discountPercentage) {
-        return price - (price * discountPercentage / 100);
-    }
-
-    public void display() {
-        System.out.println("Name: " + name + "; Id: " + id + "; Category: " + category + "; Price: " + price);
-    }
+public class Product {
+   String name,id,category;
+   double price;
+   
+   public Product(String name,String id, String category,double price)
+   {
+	   this.name=name;
+	   this.id=id;
+	   this.category=category;
+	   this.price=price;
+   }
+   
+   public void updatePrice(double newPrice)
+   {
+	   price=price+newPrice;
+   }
+   public double getPrice()
+   {
+	   return price;
+   }
+   
+   public double getDiscountedPrice(double disccountPercentage)
+   {
+	   return price = price-(price*disccountPercentage)/100;
+   }
+   
+   public void display()
+   {
+	   System.out.print("\nName: "+name+"\nID: "+id+"\nCategory: "+category+"\nPrice: "+price);
+   }
 }
