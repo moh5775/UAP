@@ -1,0 +1,31 @@
+package Lab4;
+
+public class Product {
+     String name ,id,category;
+     double price;
+     public Product(String name,String id,String category,double price)
+     {
+    	 this.category=category;
+    	 this.id=id;
+    	 this.name=name;
+    	 this.price=price;
+     }
+     
+     public void updatePrice(double newPrice)
+     {
+    	 price=newPrice;
+     }
+     public double getPrice()
+     {
+    	 return price;
+     }
+     public double getDiscountedPrice(double discountPercentage)
+     {
+    	 return price = price-(price*discountPercentage)/100;
+     }
+     
+     public void display()
+     {
+    	 System.out.print("Name: "+name+"\nID: "+id+"\nCategory: "+category+"\nPrice: "+price);
+     }
+}
