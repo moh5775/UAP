@@ -1,0 +1,18 @@
+public class Test {
+		String testName;
+		float score;
+		public Test(String testName,float score) {
+			this.testName=testName;
+			this.score=score;
+		}
+		
+		public void updateScore(Test t,String test,float newScore)
+		{
+			t.testName=test;
+			t.score=newScore;
+		}
+		
+		void display() {
+			System.out.printf("Test name: %s\nScore: %2f\n",testName,score);
+		}
+}
