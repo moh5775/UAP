@@ -1,0 +1,8 @@
+public class PassByValue {
+	public static void main(String[] args) {
+		Test t=new Test("CT1",10);
+		t.display();
+		t.updateScore(t,"Alhamdulillah",15.0f);
+		t.display();
+	}
+}
