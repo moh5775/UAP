@@ -1,0 +1,46 @@
+import java.util.Scanner;
+
+public class UapBazar {
+  public static void main(System[] args)
+  {
+	  Product object = new Product("iphone","10453","Phone",34000.0);
+	  Scanner input = new Scanner(System.in);
+	  while(true)
+	  {
+		  System.out.print("enter 1: update price.\nenter 2:get discounted price.\nenter 3: display the price.\nenter 4: display details.");
+		  int option = input.nextInt();
+		  if(option==1)
+		  {
+			  System.out.print("Enter new price: ");
+			  double newPrice=input.nextDouble();
+			  object.updatePrice(newPrice);
+			  
+		  }
+		  else if(option==2)
+		  {
+			  System.out.print("Enter discount percentage: ");
+			  double percentage=input.nextDouble();
+			  object.getDiscountedPrice(percentage);
+		  }
+		  else if(option==3)
+		  {
+			  System.out.print("Price: ");
+			  double price=object.getPrice();
+			  System.out.print(price);
+		  }
+		  else if(option==4)
+		  {
+			  System.out.println("Display:");
+			  object.display();
+		  }
+		  else if(option==0)
+		  {
+			  break;
+		  }
+		  else
+		  {
+			  System.out.print("invalid input\n");
+		  }
+	  }
+  }
+}
