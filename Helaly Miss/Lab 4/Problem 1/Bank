@@ -1,0 +1,44 @@
+import java.util.Scanner;
+public class Bank {
+   public static void main(String[] args)
+   {
+	   BankAccount account = new BankAccount("Alex","10123",1452.0);
+	   Scanner input = new Scanner(System.in);
+	   while(true)
+	   {
+		   System.out.println("Enter '1' to deposit,'2' to withdraw,'3' to display the Balance,'4' for details,'0' to exit:");
+		   int option = input.nextInt();
+		   if(option==1)
+		   {
+			   System.out.print("Enter amount you want to deposit: ");
+			   double add = input.nextDouble();
+			   account.deposit(add);
+		   }
+		   else if(option==2)
+		   {
+			   System.out.print("Enter amount you want to withdraw: ");
+			   double remove = input.nextDouble();
+			   account.withdraw(remove);
+		   }
+		   else if(option==3)
+		   {
+			   System.out.print("Balance: ");
+			   double balance=account.getBalance();
+			   System.out.println(balance);
+		   }
+		   else if(option==4)
+		   {
+			   System.out.print("Account Details:\n");
+			   account.display();
+		   }
+		   else if(option==0)
+		   {
+			   break;
+		   }
+		   else
+		   {
+			   System.out.print("Invalid Input");
+		   }
+	   }
+   }
+}
