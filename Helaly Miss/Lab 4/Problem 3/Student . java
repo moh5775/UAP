@@ -1,0 +1,18 @@
+public class Student {
+	String name,id;
+	double creditCompleted,cgpa;
+	public Student(String name,String id,double creditCompleted,double cgpa) {
+		this.cgpa=cgpa;
+		this.creditCompleted=creditCompleted;
+		this.id=id;
+		this.name=name;
+	}
+	public void updateCgpa(double courseCredit,double courseCgpa) {
+		cgpa=((cgpa*creditCompleted)+(courseCgpa*courseCredit))/(creditCompleted+courseCredit);
+		creditCompleted=creditCompleted+courseCredit;
+	}
+	
+	public void display() {
+		System.out.printf("Name: %s\nID: %s\nCredit Completed: %f\nCGPA: %f\n",name,id,creditCompleted,cgpa);
+	}
+}
