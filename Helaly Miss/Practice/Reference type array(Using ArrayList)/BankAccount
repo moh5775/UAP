@@ -1,0 +1,32 @@
+package Lab;
+
+public class BankAccount {
+	String name;
+	int accNum;
+	double balance;
+
+	public BankAccount(String name, double balance) {
+		this.balance = balance;
+		this.name = name;
+		this.accNum = (int) (Math.random() * 1000000);
+	}
+
+	public void deposit(double depAmount) {
+		balance = balance + depAmount;
+	}
+
+	public void withdraw(double withAmount) {
+		if (withAmount <= balance) {
+			balance = balance - withAmount;
+		} else
+			System.out.print("Insufficient Balance\n");
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public String toString() {
+		return "Name: " + name + " AccNum: " + accNum + " Balance: " + balance;
+	}
+}
