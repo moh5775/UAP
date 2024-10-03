@@ -1,0 +1,99 @@
+#include <stdio.h>
+
+
+int main ()
+{
+    //take stack size from the user as input
+    //declare the stack of that specified size
+    //declare a variable named as top, initially the value of top will be -1
+
+    int n;
+    printf("n: ");
+    scanf("%d",&n);
+    int stack[n];
+    int Top=-1;
+    while(1)
+    {
+        printf("\n\nType..\n1 to push\n2 to pop\n3 to check if the stack is Empty\n4 to check the stack is Full\n0 to exit\n");
+        int option;
+        scanf("%d", &option);
+        if(option==1)
+        {
+            //If Top = maximum size of the stack then Print: Overflow and Return.
+            if(Top==n-1)
+            {
+                printf("Overflow\n");
+
+            }
+            //else ask user what value to push, name it as “push”
+
+            //increment the value of top by 1
+
+            //insert the specified number of “push” in the “top”-th index of the stack
+            else
+            {
+                int push;
+                printf("Value you want to push: ");
+                scanf("%d",&push);
+                Top=Top+1;
+                stack[Top]=push;
+            }
+            //After the if else loop print the stack
+            for(int i=0; i<=Top; i++)
+            {
+                printf("%d ",stack[i]);
+            }
+        }
+        else if(option==2)
+        {
+            //If top = -1 then Print: Underflow and Return.
+            if(Top==-1)
+            {
+                printf("Underflow");
+
+            }
+
+            // else insert a null in the “top”-th index
+            // decrement the value of top by 1
+
+            else
+            {
+                stack[Top]=NULL;
+                Top=Top-1;
+            }
+
+
+            // After the if else loop print the stack
+            for(int i=0; i<=Top; i++)
+            {
+                printf("%d ",stack[i]);
+            }
+
+        }
+        else if(option==3)
+        {
+            //return true(1) if stack is empty, false(0) otherwise
+            if(Top==-1)
+                printf("Stack is empty\n");
+            else
+                printf("Not empty\n");
+        }
+        else if(option==4)
+        {
+            //return true(1) if stack is Full, false(0) otherwise
+            if(Top==n-1)
+                printf("Stack is full\n");
+            else
+                printf("Not full\n");
+
+        }
+        else if(option==0)
+        {
+            return ;
+        }
+
+
+        else printf("Invalid input.\n");
+    }
+    return 0;
+}
