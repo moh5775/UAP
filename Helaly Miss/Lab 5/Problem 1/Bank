@@ -1,0 +1,102 @@
+package bank.app;
+
+import java.util.Scanner;
+
+import bank.BankAccount;
+
+public class Bank {
+	public static void main(String[] args) {
+		BankAccount[] accounts = new BankAccount[10];
+		Scanner input = new Scanner(System.in);
+		Menu: while (true) {
+			System.out.print(
+					"\n1: create new account.\n2:deposit money.\n3:withdraw money.\n4:transfer money from one account to another.\n5:display the details of a specific account.\n6:display the details of all accounts.\n0:Exit\n");
+			System.out.print("Option: ");
+			int option = input.nextInt();
+			input.nextLine();
+			switch (option) {
+			case 1:
+				for (int i = 0; i < accounts.length; i++) {
+					if (accounts[i] == null) {
+						System.out.print("Name: ");
+						String name = input.nextLine();
+						System.out.print("Balance: ");
+						double balance = input.nextDouble();
+
+						accounts[i] = new BankAccount(name, balance);
+						break;
+					}
+				}
+				break;
+			case 2:
+				System.out.print("Enter account number: ");
+				String acc_num = input.nextLine();
+				BankAccount ac = findAccount(accounts, acc_num);
+				if (ac != null) {
+					System.out.print("Deposit amount: ");
+					double dep = input.nextDouble();
+					ac.deposit(dep);
+					System.out.println("Amount after deposit: " + ac.getBalance());
+				}
+				break;
+			case 3:
+				System.out.print("Enter account number: ");
+				String acc_number = input.nextLine();
+				BankAccount accc = findAccount(accounts, acc_number);
+				if (accc != null) {
+					System.out.print("Withdrawal amount: ");
+					double with = input.nextDouble();
+					accc.withdraw(with);
+					System.out.println("Amount after withdraw: " + accc.getBalance());
+				}
+				break;
+			case 4:
+				System.out.print("Enter account number from where the money will be transferred from: ");
+				String acc1 = input.nextLine();
+				System.out.print("Enter the account where the ammount will be transferred: ");
+				String acc2 = input.nextLine();
+				System.out.print("Ammount of money : ");
+				double money = input.nextDouble();
+				BankAccount acnt1 = findAccount(accounts, acc1);
+				BankAccount acnt2 = findAccount(accounts, acc2);
+				if (acnt1 != null && acnt2 != null && acnt1.balance >= money) {
+					acnt1.withdraw(money);
+					acnt2.deposit(money);
+				}
+				System.out.print("Current ammount:\nAccount " + acnt1.accNum + ": " + acnt1.getBalance());
+				System.out.print("Current ammount:\nAccount " + acnt2.accNum + ": " + acnt2.getBalance());
+				break;
+			case 5:
+				System.out.print("Enter account number: ");
+				String account_num = input.nextLine();
+				BankAccount acc = findAccount(accounts, account_num);
+				if (acc != null) {
+					System.out.print("Details of account " + account_num + " : " + acc);
+
+				} else {
+					System.out.println("Account not found");
+				}
+				break;
+			case 6:
+				for (int i = 0; i < accounts.length; i++) {
+					System.out.println("Details of account " + i + " : " + accounts[i]);
+				}
+				break;
+			case 0:
+				break Menu;
+			}
+		}
+		input.close();
+
+	}
+
+	public static BankAccount findAccount(BankAccount[] accounts, String account_num) {
+		for (BankAccount x : accounts) {
+			if (x.accNum.equals(account_num)) {
+				return x;
+			}
+		}
+		return null;
+	}
+
+}
