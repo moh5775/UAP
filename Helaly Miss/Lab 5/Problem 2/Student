@@ -1,0 +1,27 @@
+package student;
+
+public class Student {
+	String name, id;
+	double creditCompleted, cgpa;
+
+	public Student(String name, String id, double creditCompleted, double cgpa) {
+		this.cgpa = cgpa;
+		this.creditCompleted = creditCompleted;
+		this.id = id;
+		this.name = name;
+	}
+
+	public void updateCgpa(double courseCredit, double courseGpa) {
+		creditCompleted += courseCredit;
+		cgpa = ((creditCompleted * cgpa) + (courseCredit * courseGpa)) / (creditCompleted + courseCredit);
+		System.out.print("CGPA: " + cgpa + "\tCredit Completed: " + creditCompleted);
+	}
+
+//	public void display() {
+//		System.out.printf("\nName: %s\nID: %s\nCreditCompleted: %f\nCGPA: %f\n", name, id, creditCompleted, cgpa);
+//	}
+
+	public String toString() {
+		return "Name:  " + name + "\tID: " + id + "\tCompleted Credit: " + creditCompleted + "\tCGPA: " + cgpa;
+	}
+}
