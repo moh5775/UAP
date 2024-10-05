@@ -1,0 +1,78 @@
+package student;
+
+import java.util.Scanner;
+
+public class UapCSE {
+	public static void main(String[] args) {
+		Student[] students = new Student[10];
+		Scanner input = new Scanner(System.in);
+		Menu: while (true) {
+			System.out.print(
+					"\n1: Add new Student\n2: Update the cgpa of a Student\n3: View the cgpa of a Student\n4: View the details of a Student\n5: View the list of students with their details.\n0: exit\n");
+			System.out.print("Option: ");
+			int option = input.nextInt();
+			input.nextLine();
+			switch (option) {
+			case 1:
+				for (int i = 0; i < students.length; i++) {
+					if (students[i] == null) {
+						System.out.print("Name: ");
+						String name = input.nextLine();
+						System.out.print("ID: ");
+						String id = input.nextLine();
+						System.out.print("creditCompleted: ");
+						double creditCompleted = input.nextDouble();
+						System.out.print("CGPA: ");
+						double cgpa = input.nextDouble();
+						students[i] = new Student(name, id, creditCompleted, cgpa);
+						break;
+					}
+				}
+				break;
+			case 2:
+				System.out.print("ID: ");
+				String Id = input.nextLine();
+
+				for (int i = 0; i < students.length; i++) {
+					if (students[i] != null && students[i].id.equals(Id)) {
+						System.out.print("CGPA: ");
+						double cgpa = input.nextDouble();
+						System.out.print("Course credit: ");
+						double credit = input.nextDouble();
+						students[i].updateCgpa(credit, cgpa);
+					}
+				}
+				break;
+			case 3:
+				System.out.print("ID: ");
+				String ID = input.nextLine();
+
+				for (int i = 0; i < students.length; i++) {
+					if (students[i] != null && students[i].id.equals(ID)) {
+
+						System.out.println("CGPA of ID " + students[i].id + ": " + students[i].cgpa);
+
+					}
+				}
+				break;
+			case 4:
+				System.out.print("ID: ");
+				String iD = input.nextLine();
+				for (int i = 0; i < students.length; i++) {
+					if (students[i] != null && students[i].id.equals(iD)) {
+						System.out.print("Details: " + students[i]);
+					}
+				}
+				break;
+			case 5:
+				for (int i = 0; i < students.length; i++) {
+					// students[i].display();
+					System.out.println(students[i]);
+				}
+				break;
+			case 0:
+				break;
+			}
+		}
+	}
+}
