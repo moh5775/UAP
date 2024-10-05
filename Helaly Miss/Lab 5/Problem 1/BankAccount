@@ -1,0 +1,36 @@
+package bank;
+
+import java.util.Random;
+
+public class BankAccount {
+	public String name, accNum;
+	public double balance;
+
+	public BankAccount(String name, double balance) {
+		this.name = name;
+		this.balance = balance;
+		Random r = new Random();
+		accNum = "" + r.nextInt(10) + r.nextInt(10) + r.nextInt(10) + r.nextInt(10) + r.nextInt(10) + r.nextInt(10);
+	}
+
+	public void deposit(double depAmount) {
+		balance = balance + depAmount;
+	}
+
+	public void withdraw(double withAmount) {
+		if (withAmount <= balance) {
+			balance -= withAmount;
+		} else {
+			System.out.print("Insufficient Balance\n");
+		}
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public String toString() {
+		return "Name: " + name + "\tBalance: " + balance + "\tAccount Number: " + accNum;
+	}
+
+}
