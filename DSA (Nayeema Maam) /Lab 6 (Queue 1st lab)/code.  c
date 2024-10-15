@@ -1,0 +1,89 @@
+#include <stdio.h>
+int main ()
+{
+    int n;
+    printf("n: ");
+    scanf("%d",&n);
+    int queue[n];
+    int rear=-1;
+    int front=-1;
+    while(1)
+    {
+        printf("\n\nType..\n1 to enqueue\n2 to dequeue\n3 to check if the queue is Empty\n4 to check the queue is Full\n0 to exit\n");
+        int option;
+        scanf("%d", &option);
+        if(option==1)
+        {
+
+            if(rear==n-1)
+            {
+                printf("Overflow\n");
+
+            }
+
+            else
+            {
+                int enq;
+                printf("Value you want to enque: ");
+                scanf("%d",&enq);
+                rear=rear+1;
+                queue[rear]=enq;
+            }
+
+            for(int i=0; i<=rear; i++)
+            {
+                printf("%d ",queue[i]);
+            }
+            if(rear==0)
+                front=0;
+        }
+        else if(option==2)
+        {
+
+            if(rear==-1 || front==rear+1)
+            {
+                printf("Underflow");
+            }
+
+            else
+            {
+
+                queue[front]=NULL;
+                 front=front+1;
+            }
+
+
+
+            for(int i=front; i<=rear; i++)
+            {
+                printf("%d ",queue[i]);
+            }
+
+        }
+        else if(option==3)
+        {
+            if(rear==-1)
+                printf("Queue is empty\n");
+            else
+                printf("Not empty\n");
+        }
+        else if(option==4)
+        {
+
+            if(queue==n-1)
+                printf("Queue is full\n");
+            else
+                printf("Not full\n");
+
+        }
+        else if(option==0)
+        {
+            return ;
+        }
+
+
+        else printf("Invalid input.\n");
+    }
+    return 0;
+
+}
