@@ -1,0 +1,52 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+struct node
+{
+    int data;
+    struct node *next;
+};
+
+int main()
+{
+    struct node *head;
+    struct node *one=NULL;
+    struct node *two=NULL;
+    struct node *three=NULL;
+    int data1,data2,data3;
+    printf("data for 1st node: ");
+    scanf("%d",&data1);
+    printf("data for 2nd node: ");
+    scanf("%d",&data2);
+    printf("data for 3rd node: ");
+    scanf("%d",&data3);
+    
+    one=malloc(sizeof(struct node));
+    two=malloc(sizeof(struct node));
+    three=malloc(sizeof(struct node));
+
+    head=one;//head er moddhe 1st node er location stored thakbe
+    
+    one->data=data1;
+    one->next=two;//1st node er next part e 2nd node er address store krte hoy
+
+    two->data=data2;
+    two->next=three;//2nd node er next part e 3rd node er address store krte hoy
+
+    three->data=data3;
+    three->next=NULL;
+
+    //printing output
+
+    printf("\nLocation of 1st node: ");
+    printf("%p\n",head);
+
+    struct node *address=head;
+    while(address!=NULL)
+    {
+        printf("\nData: %d\n",address->data);
+        printf("Memory location: %p\n\n",address->next);
+        address=address->next;
+    }
+
+}
