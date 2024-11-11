@@ -45,10 +45,8 @@ void insert()
 
 void display()
 {
-    struct node *ptr;
-    ptr = head;
-
-
+    struct node *ptr = head;
+    
     printf("\nprinting values . . . . .\n");
     while (ptr!=NULL)
     {
