@@ -10,9 +10,11 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Question.jpg**: Contains the problem statement for Lab 1. ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg))
 
 ### Lab 2
-- ****hj****
-- **hj**
-
+- **EvenOdd.java**: A program to check whether a number is even or odd. (Code.java)
+-****: (Code.java)
+  -****: (Code.java)
+  -****: (Code.java)
+  -****: (Code.java)
 
 ## How to Run the Programs
 1. Clone the repository:
