@@ -76,4 +76,8 @@ This repository contains the lab assignments for [Java Course].
 ### Lab 2: Split + Searching(Binary + Linear)
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear))
 - **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Question.jpg)
+### Lab 3: Bubble Sort , Insertion Sort , Interpolation Search
+- **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%203(Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search)/Sort(Bubble%20%2B%20Insertion)%20%20%26%20Interpolation%20Search)
+- **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%203(Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search)/Question.png)
+
 
