@@ -61,7 +61,8 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 
 ### Lab 9
 #### Pharmacy Management System (Complete Backend Codes)
-- **Code**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Project%20(Backend%20Codes))  ([Instructions](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Instructions))
+- **Code**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Project%20(Backend%20Codes))
+- **Instructions**: ([Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Instructions))
 
 ###  Lab 10
 #### Complete Project (MedPharma Management System): [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%2010)
