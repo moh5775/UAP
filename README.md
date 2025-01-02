@@ -11,10 +11,10 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 
 ### Lab 2
 - **EvenOdd.java**: A program to check whether a number is even or odd. (Code.java)
--****: (Code.java)
-  -****: (Code.java)
-  -****: (Code.java)
-  -****: (Code.java)
+- ****: (Code.java)
+- ****: (Code.java)
+- ****: (Code.java)
+- ****: (Code.java)
 
 ## How to Run the Programs
 1. Clone the repository:
