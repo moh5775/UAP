@@ -9,7 +9,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Sum-Average**: A program to calculate the summation and average of an array of integers.[Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/SumAverage.java)
 - **Question**: Contains the problem statement for Lab 1. [Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg)
 
-### Lab 2
+### Lab 2: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%202)
 - **Even Odd**: A program to check whether a number is even or odd. [a](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/2)%20EvenOdd%20.%20java)
 - **Power**: A program to find the power of an integer : [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/1)%20Power%20.%20java)
 - **Prime Or Not**: A program to check whether a number is prime or not. [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/3)%20PrimeOrNot%20.%20java)
