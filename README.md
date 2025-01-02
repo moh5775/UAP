@@ -47,6 +47,10 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 #### Student Management System
 - **UapCSE (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/UapCSE))
 - **Student**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/Student))
-#### Instructions: [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg)
+#### Instructions:  [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg)
+
+### Lab 6
+#### Book Store Application: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application))
+#### Online Store Management: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Online%20Store))
 ## How to Run the Programs
 1. Clone the repository:
