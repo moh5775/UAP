@@ -38,7 +38,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 #### UapBazar Management
 - **UapBazar (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/UapBazar))
 - **Product**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/Product))
-#### Instruction: [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%202.jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%203.jpg)
+#### Instructions: [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%202.jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%203.jpg)
   
 ## How to Run the Programs
 1. Clone the repository:
