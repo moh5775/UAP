@@ -50,7 +50,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 #### Instructions:  [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg)
 
 ### Lab 6
-#### Book Store Application: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application)) ([Question.jpg])(https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg)
+#### Book Store Application: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application)) ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg))
 #### Online Store Management: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Online%20Store))
 ## How to Run the Programs
 1. Clone the repository:
