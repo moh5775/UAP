@@ -50,14 +50,18 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 #### Instructions:  [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg)
 
 ### Lab 6
-#### Book Store Application: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application)) ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg))
-#### Online Store Management: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Online%20Store))  ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg))
+#### Book Store Application
+- **Code**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application)
+- **Instructions**: [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg)
+#### Online Store Management
+- **Code**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Online%20Store)
+- **Instructions**: [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg)
 
 ### Lab 7
-#### Pharmacy Management System (Beginner): ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207)) 
+#### Pharmacy Management System (Beginner): [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207)
 
 ### Lab 8
-#### Pharmacy Management System (Basic): ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Classes)) ([Question.jpg](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Question))
+#### Pharmacy Management System (Basic)
 - **Code**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Classes)
 - **Instructions**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Question)
 
