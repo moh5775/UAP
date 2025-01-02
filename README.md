@@ -69,7 +69,7 @@ This repository contains the lab assignments for [Java Course].
 
 <br><br>
 
-# DSA (Nayeema Maam)
+# DSA (Nayeema Ma'am)
 This repository contains the lab assignments for [DSA Course].
 
 ## Lab Contents
