@@ -10,9 +10,8 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Question.jpg**: Contains the problem statement for Lab 1. ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg))
 
 ### Lab 2
-- [Add descriptions of the files in Lab 2 here].
+- ****hj****
 
----
 
 ## How to Run the Programs
 1. Clone the repository:
