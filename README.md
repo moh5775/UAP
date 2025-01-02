@@ -18,7 +18,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Three Or Five**: A program that checks whether a number is divisible by 3 or 5, but not both. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/6)%20ThreeOrFive%20.%20java))
 - **Sum of even digits**: A program to calculate the sum of even digits in a number. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/7)%20Sum%20of%20Even%20Digits%20.%20java))
 - **Fibonacci**: A program to generate the Fibonacci series up to a given number of terms. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/8)%20Fibonacci%20.%20java))
-- **Factorial**: A program to calculate the factorial of a given number. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/9)%20Factorial%20.%20java))
+- **Factorial**: A program to calculate the factorial of a given number. ([Code](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/9)%20Factorial%20.%20java))
 - **Questions**: [(1 to 6)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(1%20-%206).jpg) / [(7 to 10)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(7%20-%2010).jpg)
 
 
