@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.AddMedicine">
+   <children>
+      <TextField fx:id="nameTf" layoutX="81.0" layoutY="60.0" promptText="Name" />
+      <TextField fx:id="doseTf" layoutX="81.0" layoutY="146.0" promptText="Dose" />
+      <TextField fx:id="manTf" layoutX="81.0" layoutY="102.0" promptText="Manufacture" />
+      <TextField fx:id="unitTf" layoutX="81.0" layoutY="190.0" promptText="Unit" />
+      <TextField fx:id="quantityTf" layoutX="81.0" layoutY="280.0" promptText="Quantity" />
+      <TextField fx:id="priceTf" layoutX="81.0" layoutY="234.0" promptText="Unit Price" />
+      <TextField fx:id="exp_dateTf" layoutX="81.0" layoutY="321.0" promptText="Expiration Date" />
+      <Button layoutX="415.0" layoutY="322.0" mnemonicParsing="false" onAction="#addMedicine" prefHeight="26.0" prefWidth="58.0" text="Add" />
+      <Button layoutX="505.0" layoutY="322.0" mnemonicParsing="false" onAction="#Logout" prefHeight="26.0" prefWidth="58.0" text="Back" />
+   </children>
+</AnchorPane>

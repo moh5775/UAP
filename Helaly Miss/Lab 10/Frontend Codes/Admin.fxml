@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.AdminController">
+   <children>
+      <Button layoutX="477.0" layoutY="316.0" mnemonicParsing="false" onAction="#Logout" text="Log out" />
+      <Button layoutX="59.0" layoutY="88.0" mnemonicParsing="false" onAction="#AddMedicine" prefHeight="26.0" prefWidth="156.0" text="Add a medicine" textFill="#050505">
+         <font>
+            <Font name="Bookman Old Style" size="12.0" />
+         </font></Button>
+      <Button layoutX="379.0" layoutY="87.0" mnemonicParsing="false" onAction="#AddAccessory" prefHeight="26.0" prefWidth="156.0" text="Add an accessory">
+         <font>
+            <Font name="Bookman Old Style" size="12.0" />
+         </font></Button>
+      <Button layoutX="59.0" layoutY="144.0" mnemonicParsing="false" onAction="#viewOrderRequest" prefHeight="26.0" prefWidth="156.0" text="View order request">
+         <font>
+            <Font name="Bookman Old Style" size="12.0" />
+         </font></Button>
+      <Button layoutX="379.0" layoutY="144.0" mnemonicParsing="false" onAction="#acceptOrder" prefHeight="26.0" prefWidth="156.0" text="Accept an order">
+         <font>
+            <Font name="Bookman Old Style" size="12.0" />
+         </font></Button>
+      <Button layoutX="59.0" layoutY="200.0" mnemonicParsing="false" onAction="#switchToAdmin" prefHeight="26.0" prefWidth="156.0" text="Search for items">
+         <font>
+            <Font name="Bookman Old Style" size="12.0" />
+         </font></Button>
+      <Button layoutX="379.0" layoutY="200.0" mnemonicParsing="false" onAction="#FindExpiredMedicine" prefHeight="26.0" prefWidth="156.0" text="Find expired medicines">
+         <font>
+            <Font name="Bookman Old Style" size="12.0" />
+         </font></Button>
+   </children>
+</AnchorPane>
