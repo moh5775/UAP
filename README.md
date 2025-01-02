@@ -10,7 +10,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Question**: Contains the problem statement for Lab 1. [Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg)
 
 ### Lab 2
-- **Even Odd**: A program to check whether a number is even or odd. [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/2)
+- **Even Odd**: A program to check whether a number is even or odd. [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/2)%20EvenOdd%20.%20java
 - **Power**: A program to find the power of an integer : [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/1)%20Power%20.%20java)
 - **Prime Or Not**: A program to check whether a number is prime or not. [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/3)%20PrimeOrNot%20.%20java)
 - **Days**: A program that takes an integer input (representing the day of the week) and prints the corresponding day name. [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/4)%20Days%20.%20java)
