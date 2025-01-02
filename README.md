@@ -66,8 +66,11 @@ This repository contains the lab assignments for [Java Course].
 #### Complete Project (MedPharma Management System): [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%2010)
 
 
+
+
+
 # DSA (Nayeema Maam)
-This repository contains the lab assignments for [Java Course].
+This repository contains the lab assignments for [DSA Course].
 
 ## Lab Contents
 ### Lab 1: Basic Codes
@@ -76,8 +79,24 @@ This repository contains the lab assignments for [Java Course].
 ### Lab 2: Split + Searching(Binary + Linear)
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear))
 - **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Question.jpg)
-### Lab 3: Bubble Sort , Insertion Sort , Interpolation Search
+### Lab 3.1: Bubble Sort , Insertion Sort , Interpolation Search
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%203(Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search)/Sort(Bubble%20%2B%20Insertion)%20%20%26%20Interpolation%20Search)
 - **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%203(Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search)/Question.png)
 
+### Lab 3.2: Selection Sort
+- **Code**: [Click](https://github.com/moh5775/UAP/tree/main/DSA%20(Nayeema%20Maam)%20/Lab%203-2(Selection%20Sort))
+
+### Lab 4: Stack (Beginning)
+- **Code**: [Click](https://github.com/moh5775/UAP/tree/main/DSA%20(Nayeema%20Maam)%20/Lab%204%20(Stack%20(Beginning)))
+### Lab 5: Infix to Postfix
+- **Code**: [Click](https://github.com/moh5775/UAP/tree/main/DSA%20(Nayeema%20Maam)%20/Lab%205%20(Infix%20to%20Postfix))
+
+### Lab 6.1: Linear Queue
+- **Code**: [Click](https://github.com/moh5775/UAP/tree/main/DSA%20(Nayeema%20Maam)%20/Lab%206%20(Linear%20Queue))
+### Lab 6.2: Circular Queue
+- **Code**: [Click](https://github.com/moh5775/UAP/tree/main/DSA%20(Nayeema%20Maam)%20/Lab%206-2(Circular%20Queue))
+### Lab 7.1: Singly Linked List
+- **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%207-1(Linked%20List)/Single%20Linked%20List.c)
+### Lab 7.2: Doubly Linked List
+- **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%207-1(Linked%20List)/Doubly%20Linked%20List.c)
 
