@@ -1,6 +1,6 @@
-# Helaly Miss' Lab Assignments
+# Helaly Miss' Lab Assesments
 
-This repository contains the lab assignments for [Helaly Miss' Course].
+This repository contains the lab assignments for [Java Course].
 
 ## Lab Contents
 
