@@ -67,3 +67,13 @@ This repository contains the lab assignments for [Java Course].
 
 
 # DSA (Nayeema Maam)
+This repository contains the lab assignments for [Java Course].
+
+## Lab Contents
+### Lab 1: Basic Codes
+- **Codes**: [Click](https://github.com/moh5775/UAP/tree/main/DSA%20(Nayeema%20Maam)%20/Lab%201(Basic))
+- **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%201(Basic)/Question.jpg)
+### Lab 2: Split + Searching(Binary + Linear)
+- **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear))
+- **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Question.jpg)
+
