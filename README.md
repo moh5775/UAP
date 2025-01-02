@@ -5,7 +5,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 ## Lab Contents
 
 ### Lab 1
-- **Minimum Maximum**: A program to find the minimum and maximum values from an array of integers. [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/MinMax.java)
+- **Minimum Maximum**: A program to find the minimum and maximum values from an array of integers. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/MinMax.java))
 - **Sum-Average**: A program to calculate the summation and average of an array of integers.[Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/SumAverage.java)
 - **Question**: Contains the problem statement for Lab 1. [Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg)
 
