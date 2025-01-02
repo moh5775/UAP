@@ -44,6 +44,9 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 #### Bank Management System
 - **Bank (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/Bank))
 - **Bank Account**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/BankAccount))
-#### Instructions: [Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg)
+#### Student Management System
+- **UapCSE (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/UapCSE))
+- **Student**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/Student))
+#### Instructions: [Page 1.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg)
 ## How to Run the Programs
 1. Clone the repository:
