@@ -10,8 +10,8 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Question**: Contains the problem statement for Lab 1. ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg))
 
 ### Lab 2
-- **Even Odd**: A program to check whether a number is even or odd. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/2)%20EvenOdd%20.%20java))
-- **Power**: A program to find the power of an integer ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/1)%20Power%20.%20java))
+- **Even Odd**: A program to check whether a number is even or odd. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/2)))
+- **Power**: A program to find the power of an integer ([Code](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/1))
 - **Prime Or Not**: A program to check whether a number is prime or not. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/3)%20PrimeOrNot%20.%20java))
 - **Days**: A program that takes an integer input (representing the day of the week) and prints the corresponding day name. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/4)%20Days%20.%20java))
 - **LCM**: A program to calculate the Least Common Multiple (LCM) of two numbers. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/5)%20LCM%20.%20java))
