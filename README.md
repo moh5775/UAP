@@ -23,30 +23,30 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 
 ### Lab 3
 #### Bank Management System(Beginner)
-- **Bank (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Bank.java))
-- **Bank Account**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/BankAccount.java))
-- **Instruction**: ([qu.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Question.jpg))
+- **Bank (Main Class)**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Bank.java)
+- **Bank Account**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/BankAccount.java)
+- **Instruction**: [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Question.jpg)
 #### UapBazar Management System(Beginner)
-- **UapBazar (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/UapBazar%20.%20java))
-- **Product**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Product%20.%20java))
-- **Instruction**: ([qu.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Question%20.jpg))
+- **UapBazar (Main Class)**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/UapBazar%20.%20java)
+- **Product**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Product%20.%20java)
+- **Instruction**: [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Question%20.jpg)
 
 ### Lab 4
 #### Bank Management System(Basic)
-- **Bank (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%201/Bank))
-- **Bank Account**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%201/BankAccount))
+- **Bank (Main Class)**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%201/Bank)
+- **Bank Account**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%201/BankAccount)
 #### UapBazar Management System(Basic)
-- **UapBazar (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/UapBazar))
-- **Product**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/Product))
+- **UapBazar (Main Class)**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/UapBazar)
+- **Product**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/Product)
 #### Instructions: [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%202.jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%203.jpg)
 
 ### Lab 5
 #### Bank Management System
-- **Bank (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/Bank))
-- **Bank Account**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/BankAccount))
+- **Bank (Main Class)**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/Bank)
+- **Bank Account**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/BankAccount)
 #### Student Management System
-- **UapCSE (Main Class)**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/UapCSE))
-- **Student**: ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/Student))
+- **UapCSE (Main Class)**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/UapCSE)
+- **Student**: [Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/Student)
 #### Instructions:  [Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg)
 
 ### Lab 6
