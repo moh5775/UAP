@@ -54,6 +54,9 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 #### Online Store Management: ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Online%20Store))  ([Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg))
 
 ### Lab 7
-#### Pharmacy Management (Beginner): ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207)) (Question.jpg)
+#### Pharmacy Management System (Beginner): ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207)) 
+
+### Lab 8
+#### Pharmacy Management System (Basic): ([Code.java](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Classes)) ([Question.jpg](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Question))
 ## How to Run the Programs
 1. Clone the repository:
