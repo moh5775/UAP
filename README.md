@@ -21,6 +21,9 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Factorial**: A program to calculate the factorial of a given number. ([Code.java](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/9)))
 - **Questions**: [(1 to 6)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(1%20-%206).jpg) / [(7 to 10)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(7%20-%2010).jpg)
 
+### Lab 3
+#### Problem 1
+
 
 ## How to Run the Programs
 1. Clone the repository:
