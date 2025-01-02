@@ -10,7 +10,7 @@ This repository contains the lab assignments for [Helaly Miss' Course].
 - **Question**: Contains the problem statement for Lab 1. [Question.jpg](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg)
 
 ### Lab 2
--**Codes**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%202)
+- **Codes**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%202)
 - **Questions**: [(1 to 6)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(1%20-%206).jpg) / [(7 to 10)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(7%20-%2010).jpg)
 
 ### Lab 3
