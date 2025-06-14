@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    vector<int> v = {5, 2, 9, 8, 3, 7};
+    sort(v.begin(), v.end(), greater<int>());
+    for (auto x : v)
+    {
+        cout << x << " ";
+    }
+    cout << endl;
+
+    int a[] = {5, 2, 9, 8, 3, 7};
+    int n = sizeof(a) / sizeof(a[0]);
+    sort(a, a + n, greater<int>());
+    for (auto x : a)
+    {
+        cout << x << " ";
+    }
+}
