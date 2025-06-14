@@ -101,7 +101,3 @@ This repository contains the lab assignments for [DSA Course].
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%207-1(Linked%20List)/Doubly%20Linked%20List.c)
   
 
-
-![ER diagram](https://github.com/user-attachments/assets/07b69838-ca83-461e-9c0a-94c1d8f36437)
-
-
