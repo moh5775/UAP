@@ -54,7 +54,8 @@ This repository contains the lab assignments for [Java Course].
 - **Instructions**: [Click Here](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg)
 
 ### Lab 7
-#### Pharmacy Management System (Beginner): [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207)
+#### Pharmacy Management System (Beginner): 
+[Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207)
 
 ### Lab 8
 #### Pharmacy Management System (Basic)
