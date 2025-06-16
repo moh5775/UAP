@@ -101,3 +101,5 @@ This repository contains the lab assignments for [DSA Course].
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%207-1(Linked%20List)/Doubly%20Linked%20List.c)
   
 
+- **Code**: [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application)
+- **Instructions**: Click Here(https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg)
