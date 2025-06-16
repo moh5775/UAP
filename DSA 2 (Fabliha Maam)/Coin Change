@@ -1,0 +1,32 @@
+#include <stdio.h>
+
+const int numCoins = 5;
+
+int greedyCoinChange(int c[], int n, int i) 
+{ 
+    // If amount is 0, no coins needed
+    if (n == 0) { 
+        return 0; 
+    } 
+
+    // If no more coins left but amount > 0, no solution
+    if (i >= numCoins) {
+        return 0; // or handle error - no exact change possible
+    }
+
+    if (c[i] <= n) { 
+        return 1 + greedyCoinChange(c, n - c[i], i); 
+    } else { 
+        return greedyCoinChange(c, n, i + 1); 
+    } 
+} 
+
+int main() 
+{ 
+    int c[numCoins] = {50, 25, 20, 10, 5}; // Sorted array (descending)
+    int n = 140; 
+    int total_coin = greedyCoinChange(c, n, 0); 
+    printf("Total coins: %d\n", total_coin); 
+
+    return 0;
+}
