@@ -2,23 +2,23 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Utility function to return maximum of two integers
+// Utility function to return the maximum of two integers
 int max(int x, int y) {
     return (x > y) ? x : y;
 }
 
-// Function to find length of LCS for S1[0..m-1] and S2[0..n-1]
+// Function to find the length of LCS of strings S1 and S2
 int lcs(const char *S1, const char *S2) {
     int m = strlen(S1);
     int n = strlen(S2);
 
-    // Declare a 2D array to store subproblem results
+    // Create a (m+1) x (n+1) DP table
     int dp[m + 1][n + 1];
 
-    // Build the dp table in bottom-up manner
+    // Fill the table in bottom-up manner
     for (int i = 0; i <= m; i++) {
         for (int j = 0; j <= n; j++) {
-            
+
             if (i == 0 || j == 0)
                 dp[i][j] = 0;
 
@@ -30,13 +30,13 @@ int lcs(const char *S1, const char *S2) {
         }
     }
 
-    // Return the length of LCS
+    // The bottom-right cell contains the length of LCS
     return dp[m][n];
 }
 
 int main() {
-    const char *S1 = "AGGTAB";
-    const char *S2 = "GXTXAYB";
+    char S1[] = "AGGTAB";
+    char S2[] = "GXTXAYB";
 
     int length = lcs(S1, S2);
     printf("Length of LCS: %d\n", length);
