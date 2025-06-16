@@ -1,53 +1,80 @@
 #include <stdio.h>
 #include <math.h>
 
-#define N 4  // Change this value for different board sizes
+int board[20];
+int count = 0;
 
-int board[N];
-
-// Check if placing queen at (row, col) is safe
-int is_safe(int row, int col) {
-    for (int i = 0; i < row; i++) {
-        // Check column & diagonals
-        if (board[i] == col || abs(board[i] - col) == abs(i - row)) {
-            return 0;  // Not safe
+// Check if it's safe to place a queen at (row, col)
+int isSafe(int row, int col)
+{
+    for (int i = 1; i <= row - 1; i++)
+    {
+        if (board[i] == col || abs(board[i] - col) == abs(i - row))
+        {
+            return 0; // Not safe
         }
     }
-    return 1;  // Safe
+    return 1; // Safe
 }
 
-// Print the board
-void print_board() {
-    for (int i = 0; i < N; i++) {
-        for (int j = 0; j < N; j++) {
+// Print the board configuration
+void printBoard(int n)
+{
+    printf("\nSolution %d:\n", ++count);
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= n; j++)
+        {
             if (board[i] == j)
-                printf("Q ");
+            {
+                printf(" Q "); // Queen is present
+            }
             else
-                printf(". ");
+            {
+                printf(" . "); // Empty square
+            }
         }
         printf("\n");
     }
-    printf("\n");
 }
 
-// Recursive function to solve N-Queens
-void solve(int row) {
-    if (row == N) {
-        print_board();  // Found a solution
+// Solve N-Queens problem using backtracking
+void solveQueens(int row, int n)
+{
+    if (row > n)
+    {
+        printBoard(n); // All queens placed, print the solution
         return;
     }
 
-    for (int col = 0; col < N; col++) {
-        if (is_safe(row, col)) {
-            board[row] = col;     // Place queen
-            solve(row + 1);       // Recurse for next row
-            // No need to undo board[row], it gets overwritten in the next iteration
+    for (int col = 1; col <= n; col++)
+    {
+        if (isSafe(row, col))
+        {
+            board[row] = col; // Place queen
+            solveQueens(row + 1, n);
         }
     }
 }
 
-// Main function
-int main() {
-    solve(0);  // Start from row 0
+int main()
+{
+    int n;
+    printf("Enter the number of queens (N): ");
+    scanf("%d", &n);
+
+    if (n <= 0 || n > 20)
+    {
+        printf("Please enter a valid number of queens (1-20).\n");
+        return 1;
+    }
+
+    solveQueens(1, n); // Start solving from the first row
+
+    if (count == 0)
+    {
+        printf("No solutions found for %d queens.\n", n);
+    }
+
     return 0;
 }
