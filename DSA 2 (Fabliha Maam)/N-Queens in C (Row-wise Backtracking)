@@ -1,0 +1,53 @@
+#include <stdio.h>
+#include <math.h>
+
+#define N 4  // Change this value for different board sizes
+
+int board[N];
+
+// Check if placing queen at (row, col) is safe
+int is_safe(int row, int col) {
+    for (int i = 0; i < row; i++) {
+        // Check column & diagonals
+        if (board[i] == col || abs(board[i] - col) == abs(i - row)) {
+            return 0;  // Not safe
+        }
+    }
+    return 1;  // Safe
+}
+
+// Print the board
+void print_board() {
+    for (int i = 0; i < N; i++) {
+        for (int j = 0; j < N; j++) {
+            if (board[i] == j)
+                printf("Q ");
+            else
+                printf(". ");
+        }
+        printf("\n");
+    }
+    printf("\n");
+}
+
+// Recursive function to solve N-Queens
+void solve(int row) {
+    if (row == N) {
+        print_board();  // Found a solution
+        return;
+    }
+
+    for (int col = 0; col < N; col++) {
+        if (is_safe(row, col)) {
+            board[row] = col;     // Place queen
+            solve(row + 1);       // Recurse for next row
+            // No need to undo board[row], it gets overwritten in the next iteration
+        }
+    }
+}
+
+// Main function
+int main() {
+    solve(0);  // Start from row 0
+    return 0;
+}
