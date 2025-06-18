@@ -117,7 +117,7 @@ Try all possible solutions and pick the best.
 
 Example: *Linear Search* — check every element one by one.
 
-### **2. Divide and Conquer:** Divide the problem into smaller subproblems, solve them, and combine the results.
+### **2. Divide and Conquer:**  Divide the problem into smaller subproblems, solve them, and combine the results.
 
 Example: Merge Sort, Quick Sort
 
