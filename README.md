@@ -163,7 +163,7 @@ Examples:
 ### **7. Tree Algorithms:** 
 Algorithms are designed for tree data structures (a special type of graph).
 
-Examples:
+<u>Examples:</u>
 
 *Tree Traversals* – Inorder, Preorder, Postorder
 
