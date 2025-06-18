@@ -115,7 +115,7 @@ This repository contains the necessary materials for the [DSA II Course].
 ### **1. Brute Force Technique:** 
 Try all possible solutions and pick the best.
 
-Example: *Linear Search* — check every element one by one.
+Example: [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear)) — check every element one by one.
 
 ### **2. Divide and Conquer:**  
 Divide the problem into smaller subproblems, solve them, and combine the results.
