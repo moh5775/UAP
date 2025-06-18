@@ -181,4 +181,28 @@ This repository contains the lab assignments for the [Java Course].
 
 
 
+# 👩🏻‍🏫 Helaly Miss' Lab Assessments
+
+This repository contains all Java lab assignments conducted by Helaly Ma'am at UAP.
+
+---
+
+## 📋 Lab Summary Table
+
+| Lab | Project Name                      | Description/Topics                     | Code Link | Instructions |
+|-----|----------------------------------|----------------------------------------|-----------|--------------|
+| 1   | Minimum & Sum-Average            | Array operations (min, max, sum, avg) | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%201) | [📄](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg) |
+| 2   | Basic Problems (1–10)            | Fundamental Java questions             | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%202) | [1–6](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(1%20-%206).jpg) / [7–10](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(7%20-%2010).jpg) |
+| 3   | Bank & UapBazar (Beginner)       | Classes & objects                      | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%203) | [Bank](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Question.jpg) / [Bazar](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Question%20.jpg) |
+| 4   | Bank & UapBazar (Basic)          | Constructor, basic class logic         | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%204) | [P1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Queation%201.jpg), [P2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%202.jpg), [P3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%203.jpg) |
+| 5   | Bank + Student Management        | Multiple class handling                | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%205) | [P1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg), [P2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg), [P3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg) |
+| 6   | Book Store & Online Store        | OOP + Menu-driven console apps         | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206) | [Book](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg) / [Online](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg) |
+| 7   | Pharmacy (Beginner)              | Classes, arrays                        | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207) | — |
+| 8   | Pharmacy (Basic)                 | Better object management               | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Classes) | [📄](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Question) |
+| 9   | Pharmacy (Backend Only)          | Modularization, class logic            | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Project%20(Backend%20Codes)) | [📄](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Instructions) |
+| 10  | MedPharma Final Project          | Complete project with all features     | [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%2010) | — |
+
+---
+
+
 
