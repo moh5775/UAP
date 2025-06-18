@@ -117,23 +117,28 @@ Try all possible solutions and pick the best.
 
 Example: *Linear Search* — check every element one by one.
 
-### **2. Divide and Conquer:**  Divide the problem into smaller subproblems, solve them, and combine the results.
+### **2. Divide and Conquer:**  
+Divide the problem into smaller subproblems, solve them, and combine the results.
 
 Example: Merge Sort, Quick Sort
 
-### **3. Greedy Algorithm:** Make the best choice at each step hoping it leads to the global best solution.
+### **3. Greedy Algorithm:** 
+Make the best choice at each step, hoping it leads to the global best solution.
 
 Example: Coin Change Problem (min coins), Kruskal’s Algorithm (for Minimum Spanning Tree)
 
-### **4. Dynamic Programming (DP):** Solve problems by storing results of overlapping subproblems and reusing them.
+### **4. Dynamic Programming (DP):** 
+Solve problems by storing the results of overlapping subproblems and reusing them.
 
 Example: Fibonacci Series, 0/1 Knapsack, Longest Common Subsequence (LCS)
 
-### **5. Backtracking:** Try one option, if it fails, backtrack and try another.
+### **5. Backtracking:** 
+Try one option; if it fails, backtrack and try another.
 
 Example: N-Queens Problem, Sudoku Solver
 
-### **6. Graph Algorithms:** Algorithms that work on graphs (nodes and edges).
+### **6. Graph Algorithms:** 
+Algorithms that work on graphs (nodes and edges).
 
 Examples:
 
@@ -145,7 +150,8 @@ Examples:
 
 *Kruskal’s / Prim’s* – For Minimum Spanning Tree (MST)
 
-### **7. Tree Algorithms:** Algorithms designed for tree data structures (a special type of graph).
+### **7. Tree Algorithms:** 
+Algorithms are designed for tree data structures (a special type of graph).
 
 Examples:
 
@@ -153,6 +159,7 @@ Examples:
 
 *Binary Search Tree operations* – Insert, Delete, Search
 
-### **8. Approximation Algorithm: Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
+### **8. Approximation Algorithm:** 
+Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
 
 Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
