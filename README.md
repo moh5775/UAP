@@ -186,3 +186,26 @@ Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
 | **Binary Search**           | Divide and Conquer + Search Algorithm | Divides search space and searches efficiently                    |
 | **Ternary Search**          | Divide and Conquer + Optimization     | Divides space in 3 parts to optimize unimodal functions          |
 | **0/1 Knapsack**            | Dynamic Programming + Optimization    | Uses DP to solve optimization problem                            |
+
+## ⏱️ Worst-Case Time Complexities-
+| 🔢 **Algorithm Type**       | ⚙️ **Algorithm**           | ⌛ **Worst-Case Time Complexity**         |
+| --------------------------- | -------------------------- | ---------------------------------------- |
+| **Brute Force**             | Linear Search              | **O(n)**                                 |
+|                             | All Subsets (Power Set)    | **O(2ⁿ)**                                |
+| **Divide and Conquer**      | Merge Sort                 | **O(n log n)**                           |
+|                             | Quick Sort                 | **O(n²)** *(worst case)*                 |
+|                             | Binary Search              | **O(log n)**                             |
+|                             | Ternary Search             | **O(log n)**                             |
+| **Greedy Algorithm**        | Fractional Knapsack        | **O(n log n)** *(due to sorting)*        |
+|                             | Kruskal’s Algorithm (MST)  | **O(E log E)** or **O(E log V)**         |
+|                             | Prim’s Algorithm (MST)     | **O(E + log V)** (with min-heap)         |
+| **Dynamic Programming**     | Fibonacci (Memoized)       | **O(n)**                                 |
+|                             | 0/1 Knapsack               | **O(nW)** *(n = items, W = capacity)*    |
+|                             | Longest Common Subsequence | **O(n × m)**                             |
+| **Backtracking**            | N-Queens                   | **O(N!)**                                |
+|                             | Sudoku Solver              | **O(9ⁿ)** or **O(N²)** (heavy backtrack) |
+| **Graph Algorithms**        | DFS / BFS                  | **O(V + E)**                             |
+|                             | Dijkstra’s Algorithm       | **O(V²)** or **O((V + E) log V)**        |
+|                             | Bellman-Ford               | **O(V × E)**                             |
+| **Approximation Algorithm** | TSP (Nearest Neighbor)     | **O(n²)**                                |
+
