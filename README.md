@@ -137,7 +137,7 @@ Make the best choice at each step, hoping it leads to the global best solution.
 ### **4. Dynamic Programming (DP):** 
 Solve problems by storing the results of overlapping subproblems and reusing them.
 
-Example: <br>
+**Example:** <br>
 [*Fibonacci Series*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Fibonacci/Complexity%3A%20O(n)%20(efficient%20with%20memoization)), <br>
 [*0/1 Knapsack*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/0-1%20Knapsack), <br>
 [*Longest Common Subsequence (LCS)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/LCS)
