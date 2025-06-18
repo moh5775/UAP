@@ -1,4 +1,4 @@
-# Helaly Miss' Lab Assessments
+👩🏻‍🏫 # Helaly Miss' Lab Assessments
 
 This repository contains the lab assignments for the [Java Course].
 
@@ -73,7 +73,7 @@ This repository contains the lab assignments for the [Java Course].
 
 <br><br>
 
-# DSA (Nayeema Ma'am)
+👩🏻‍🏫 # DSA (Nayeema Ma'am)
 This repository contains the lab assignments for the [DSA Course].
 
 ## Lab Contents
@@ -104,7 +104,7 @@ This repository contains the lab assignments for the [DSA Course].
 
 <br><br>
 
-# DSA II (Fabliha Ma'am)
+👩🏻‍🏫 # DSA II (Fabliha Ma'am)
 This repository contains the necessary materials for the [DSA II Course].
 ## Algorithms
 ### **1. Brute Force Technique:** 
