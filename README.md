@@ -112,15 +112,15 @@ Try all possible solutions and pick the best.
 
 **Example:** [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear)) — check every element one by one.
 
-### ⚔️**2. Divide and Conquer:**  
+### ⚔️ **2. Divide and Conquer:**  
 Divide the problem into smaller subproblems, solve them, and combine the results.
 
 **Example:** <br>
 [*Merge Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Merge%20Sort), <br>
 [*Quick Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Quick%20Sort), <br>
-### 🔍
+
 [*Binary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Binary%20Search/Process%201), <br>
-### 🔍
+
 [*Ternary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Ternary%20Search)
 
 ### 🤑 **3. Greedy Algorithm:** 
