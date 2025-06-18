@@ -21,11 +21,7 @@ This repository contains all Java lab assignments conducted by Helaly Ma'am at U
 
 ---
 
-📌 *Every lab folder includes codes and questions/images wherever applicable. Most projects follow beginner to intermediate OOP principles.*
-
-
-
-<br><br>
+<br>
 
 # 👩🏻‍🏫 DSA I – Nayeema Ma’am
 
@@ -45,7 +41,7 @@ This repository contains all Java lab assignments conducted by Helaly Ma'am at U
 | 💻 **Lab 7.2** | Doubly Linked List                                | [Code](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%207-1%28Linked%20List%29/Doubly%20Linked%20List.c)                                                                                                 |
 
 ---
-<br><br>
+<br>
 
 # 👩🏻‍🏫 DSA II – Fabliha Ma’am
 
