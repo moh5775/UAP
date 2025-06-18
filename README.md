@@ -48,14 +48,14 @@ This repository contains all DSA-I lab assessments conducted by [Nayeema Ma'am](
 # 👩🏻‍🏫 DSA II – Fabliha Ma’am
 This repository contains all DSA-II lab assessments conducted by [Fabliha Ma'am](https://cse.uap-bd.edu/faculty/faculty_details/64) at UAP.
 
-### 📚 Algorithm Categories & Examples
+## 📚 Algorithm Categories & Examples
 
-#### 1. 🧨 Brute Force
+### 1. 🧨 Brute Force
 
 * Try all possible solutions
 * 🔗 [Linear Search](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%202%28Binary%20and%20Linear%20Search%29/Split%20%2B%20Searching%20%28Binary%20%2B%20Linear%29)
 
-#### 2. ⚔️ Divide and Conquer
+### 2. ⚔️ Divide and Conquer
 
 * Break → Solve → Combine
 * 🔗 [Merge Sort](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Merge%20Sort)
@@ -63,38 +63,38 @@ This repository contains all DSA-II lab assessments conducted by [Fabliha Ma'am]
 * 🔗 [Binary Search](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Binary%20Search/Process%201)
 * 🔗 [Ternary Search](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Ternary%20Search)
 
-#### 3. 🤑 Greedy
+### 3. 🤑 Greedy
 
 * Take the best *local* choice
 * 🔗 [Coin Change (min coins)](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Coin%20Change)
 * 🔗 [Kruskal’s Algorithm](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Krushkal%20Algorithm)
 * 🔗 [Fractional Knapsack](https://github.com/moh5775/UAP/tree/main/DSA%202%20%28Fabliha%20Maam%29/Fractional%20Knapsack)
 
-#### 4. 🧵 Dynamic Programming
+### 4. 🧵 Dynamic Programming
 
 * Solve overlapping subproblems and store results
 * 🔗 [Fibonacci (Memoized)](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Fibonacci/Complexity%3A%20O%28n%29%20%28efficient%20with%20memoization%29)
 * 🔗 [0/1 Knapsack](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/0-1%20Knapsack)
 * 🔗 [LCS](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/LCS)
 
-#### 5. 🔙 Backtracking
+### 5. 🔙 Backtracking
 
 * Explore one path → backtrack if needed
 * 🔗 [N-Queens](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/N-Queens%20in%20C%20%28Row-wise%20Backtracking%29)
 
-#### 6. 🌐 Graph Algorithms
+### 6. 🌐 Graph Algorithms
 
 * DFS / BFS → 🔗 [DFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/DFS), [BFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/BFS)
 * Dijkstra → 🔗 [Dijkstra’s Algorithm](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Dijkstra%20Algorithm)
 * Bellman-Ford → 🔗 [Bellman-Ford](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Bellman-Ford)
 * MSTs → 🔗 [Prim’s](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Prim's%20Algorithm), [Kruskal](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Krushkal%20Algorithm)
 
-#### 7. 🌳 Tree Algorithms
+### 7. 🌳 Tree Algorithms
 
 * Traversals → Inorder, Preorder, Postorder
 * BST Operations → Insert, Delete, Search
 
-#### 8. 🎯 Approximation
+### 8. 🎯 Approximation
 
 * Near-optimal for NP-Hard problems
 * 🔗 *TSP using Nearest Neighbor*
