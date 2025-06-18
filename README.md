@@ -107,21 +107,23 @@ This repository contains the lab assignments for the [DSA Course].
 # 👩🏻‍🏫 DSA II (Fabliha Ma'am)
 This repository contains the necessary materials for the [DSA II Course].
 ## Algorithms
-### 👩🏻‍💻 **1. Brute Force Technique:** 
+### 💣 **1. Brute Force Technique:** 
 Try all possible solutions and pick the best.
 
 **Example:** [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear)) — check every element one by one.
 
-### 👩🏻‍💻**2. Divide and Conquer:**  
+### ⚔️**2. Divide and Conquer:**  
 Divide the problem into smaller subproblems, solve them, and combine the results.
 
 **Example:** <br>
 [*Merge Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Merge%20Sort), <br>
 [*Quick Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Quick%20Sort), <br>
+### 🔍
 [*Binary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Binary%20Search/Process%201), <br>
+### 🔍
 [*Ternary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Ternary%20Search)
 
-### 👩🏻‍💻 **3. Greedy Algorithm:** 
+### 🤑 **3. Greedy Algorithm:** 
 Make the best choice at each step, hoping it leads to the global best solution.
 
 **Example:** <br>
@@ -129,7 +131,7 @@ Make the best choice at each step, hoping it leads to the global best solution.
 [*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm),<br>
 [*Fractional Knapsack*](https://github.com/moh5775/UAP/tree/main/DSA%202%20(Fabliha%20Maam)/Fractional%20Knapsack)
 
-### 👩🏻‍💻 **4. Dynamic Programming (DP):** 
+### 🧵 **4. Dynamic Programming (DP):** 
 Solve problems by storing the results of overlapping subproblems and reusing them.
 
 **Example:** <br>
@@ -137,12 +139,12 @@ Solve problems by storing the results of overlapping subproblems and reusing the
 [*0/1 Knapsack*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/0-1%20Knapsack), <br>
 [*Longest Common Subsequence (LCS)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/LCS)
 
-### 👩🏻‍💻 **5. Backtracking:** 
+### 🔙 **5. Backtracking:** 
 Try one option; if it fails, backtrack and try another.
 
 **Example:** [*N-Queens Problem*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/N-Queens%20in%20C%20(Row-wise%20Backtracking)), Sudoku Solver
 
-### 👩🏻‍💻 **6. Graph Algorithms:** 
+### 🌐 **6. Graph Algorithms:** 
 Algorithms that work on graphs (nodes and edges).
 
 **Examples:**
@@ -155,7 +157,7 @@ Algorithms that work on graphs (nodes and edges).
 
 *[Kruskal](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm) / [Prim’s](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Prim's%20Algorithm)* – For Minimum Spanning Tree (MST)
 
-### 👩🏻‍💻 **7. Tree Algorithms:** 
+### 🌳 **7. Tree Algorithms:** 
 Algorithms are designed for tree data structures (a special type of graph).
 
 **Examples:**
@@ -164,7 +166,7 @@ Algorithms are designed for tree data structures (a special type of graph).
 
 *Binary Search Tree operations* – Insert, Delete, Search
 
-### 👩🏻‍💻 **8. Approximation Algorithm:** 
+### 🎯 **8. Approximation Algorithm:** 
 Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
 
 **Example:** *Traveling Salesman* Problem using Nearest Neighbor heuristic
