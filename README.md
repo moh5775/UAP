@@ -175,7 +175,8 @@ Provides a "good enough" solution when exact solutions are too slow or hard (for
 Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
 
 
-
+<br><br>
+## Algorithms Belonging to Multiple Categories:
 | Algorithm                   | Categories                            | Why?                                                             |
 | --------------------------- | ------------------------------------- | ---------------------------------------------------------------- |
 | **Prim’s Algorithm**        | Graph Algorithm + Greedy Algorithm    | Works on graphs; picks minimum-weight edge greedily to build MST |
@@ -187,7 +188,8 @@ Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
 | **Ternary Search**          | Divide and Conquer + Optimization     | Divides space in 3 parts to optimize unimodal functions          |
 | **0/1 Knapsack**            | Dynamic Programming + Optimization    | Uses DP to solve optimization problem                            |
 
-## ⏱️ Worst-Case Time Complexities-
+<br><br>
+## ⏱️ Worst-Case Time Complexities:
 | 🔢 **Algorithm Type**       | ⚙️ **Algorithm**           | ⌛ **Worst-Case Time Complexity**         |
 | --------------------------- | -------------------------- | ---------------------------------------- |
 | **Brute Force**             | Linear Search              | **O(n)**                                 |
