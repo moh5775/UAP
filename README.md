@@ -120,25 +120,25 @@ Example: [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayee
 ### **2. Divide and Conquer:**  
 Divide the problem into smaller subproblems, solve them, and combine the results.
 
-Example: 
+Example: <br>
 [*Merge Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Merge%20Sort), <br>
-[*Quick Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Quick%20Sort), 
-[*Binary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Binary%20Search/Process%201), 
+[*Quick Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Quick%20Sort), <br>
+[*Binary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Binary%20Search/Process%201), <br>
 [*Ternary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Ternary%20Search)
 
 ### **3. Greedy Algorithm:** 
 Make the best choice at each step, hoping it leads to the global best solution.
 
-Example: 
-[*Coin Change Problem (min coins)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Coin%20Change), 
+Example: <br>
+[*Coin Change Problem (min coins)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Coin%20Change), <br>
 [*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm)
 
 ### **4. Dynamic Programming (DP):** 
 Solve problems by storing the results of overlapping subproblems and reusing them.
 
-Example: 
-[*Fibonacci Series*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Fibonacci/Complexity%3A%20O(n)%20(efficient%20with%20memoization)), 
-[*0/1 Knapsack*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/0-1%20Knapsack), 
+Example: <br>
+[*Fibonacci Series*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Fibonacci/Complexity%3A%20O(n)%20(efficient%20with%20memoization)), <br>
+[*0/1 Knapsack*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/0-1%20Knapsack), <br>
 [*Longest Common Subsequence (LCS)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/LCS)
 
 ### **5. Backtracking:** 
