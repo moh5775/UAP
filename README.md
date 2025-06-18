@@ -112,7 +112,8 @@ This repository contains the lab assignments for the [DSA Course].
 # DSA II (Fabliha Ma'am)
 This repository contains the necessary materials for the [DSA II Course].
 ## Algorithms
-### **1. Brute Force Technique:** Try all possible solutions and pick the best.
+### **1. Brute Force Technique:** 
+Try all possible solutions and pick the best.
 
 Example: *Linear Search* — check every element one by one.
 
