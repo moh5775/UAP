@@ -1,4 +1,4 @@
-👩🏻‍🏫 # Helaly Miss' Lab Assessments
+# 👩🏻‍🏫 Helaly Miss' Lab Assessments
 
 This repository contains the lab assignments for the [Java Course].
 
