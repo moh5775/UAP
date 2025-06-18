@@ -173,3 +173,16 @@ Examples:
 Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
 
 Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
+
+
+
+| Algorithm                   | Categories                            | Why?                                                             |
+| --------------------------- | ------------------------------------- | ---------------------------------------------------------------- |
+| **Prim’s Algorithm**        | Graph Algorithm + Greedy Algorithm    | Works on graphs; picks minimum-weight edge greedily to build MST |
+| **Kruskal’s Algorithm**     | Graph Algorithm + Greedy Algorithm    | Uses greedy edge picking in graph to build MST                   |
+| **Dijkstra’s Algorithm**    | Graph Algorithm + Greedy Algorithm    | Finds shortest path by greedy relaxation in graph                |
+| **Bellman-Ford**            | Graph Algorithm + Dynamic Programming | Uses relaxation like DP but for graphs; handles negative weights |
+| **Backtracking Algorithms** | General Algorithm + Recursion         | Uses recursion to try options and backtrack                      |
+| **Binary Search**           | Divide and Conquer + Search Algorithm | Divides search space and searches efficiently                    |
+| **Ternary Search**          | Divide and Conquer + Optimization     | Divides space in 3 parts to optimize unimodal functions          |
+| **0/1 Knapsack**            | Dynamic Programming + Optimization    | Uses DP to solve optimization problem                            |
