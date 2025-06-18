@@ -173,7 +173,7 @@ Provides a "good enough" solution when exact solutions are too slow or hard (for
 
 
 <br><br>
-## Algorithms Belonging to Multiple Categories:
+## 🗂️ Algorithms Belonging to Multiple Categories:
 | Algorithm                   | Categories                            | Why?                                                             |
 | --------------------------- | ------------------------------------- | ---------------------------------------------------------------- |
 | **Prim’s Algorithm**        | Graph Algorithm + Greedy Algorithm    | Works on graphs; picks minimum-weight edge greedily to build MST |
