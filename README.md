@@ -115,12 +115,12 @@ This repository contains the necessary materials for the [DSA II Course].
 ### **1. Brute Force Technique:** 
 Try all possible solutions and pick the best.
 
-Example: [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear)) — check every element one by one.
+**Example:** [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear)) — check every element one by one.
 
 ### **2. Divide and Conquer:**  
 Divide the problem into smaller subproblems, solve them, and combine the results.
 
-Example: <br>
+**Example:** <br>
 [*Merge Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Merge%20Sort), <br>
 [*Quick Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Quick%20Sort), <br>
 [*Binary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Binary%20Search/Process%201), <br>
@@ -129,7 +129,7 @@ Example: <br>
 ### **3. Greedy Algorithm:** 
 Make the best choice at each step, hoping it leads to the global best solution.
 
-Example: <br>
+**Example:** <br>
 [*Coin Change Problem (min coins)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Coin%20Change), <br>
 [*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm),<br>
 [*Fractional Knapsack*](https://github.com/moh5775/UAP/tree/main/DSA%202%20(Fabliha%20Maam)/Fractional%20Knapsack)
@@ -145,12 +145,12 @@ Example: <br>
 ### **5. Backtracking:** 
 Try one option; if it fails, backtrack and try another.
 
-Example: [*N-Queens Problem*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/N-Queens%20in%20C%20(Row-wise%20Backtracking)), Sudoku Solver
+**Example:** [*N-Queens Problem*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/N-Queens%20in%20C%20(Row-wise%20Backtracking)), Sudoku Solver
 
 ### **6. Graph Algorithms:** 
 Algorithms that work on graphs (nodes and edges).
 
-Examples:
+**Examples:**
 
 *[DFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/DFS) / [BFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/BFS)* – For graph traversal
 
@@ -163,7 +163,7 @@ Examples:
 ### **7. Tree Algorithms:** 
 Algorithms are designed for tree data structures (a special type of graph).
 
-<u>Examples:</u>
+**Examples:**
 
 *Tree Traversals* – Inorder, Preorder, Postorder
 
@@ -172,7 +172,7 @@ Algorithms are designed for tree data structures (a special type of graph).
 ### **8. Approximation Algorithm:** 
 Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
 
-Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
+**Example:** *Traveling Salesman* Problem using Nearest Neighbor heuristic
 
 
 <br><br>
