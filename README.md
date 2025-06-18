@@ -1,6 +1,6 @@
 # 👩🏻‍🏫 Helaly Miss' Lab Assessments
 
-This repository contains all Java lab assignments conducted by Helaly Ma'am at UAP.
+This repository contains all Java lab assignments conducted by [Helaly Ma'am](https://cse.uap-bd.edu/faculty/faculty_details/11) at UAP.
 
 ---
 
