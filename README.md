@@ -49,7 +49,6 @@ This repository contains all DSA-I lab assessments conducted by [Nayeema Ma'am](
 This repository contains all DSA-II lab assessments conducted by [Fabliha Ma'am](https://cse.uap-bd.edu/faculty/faculty_details/64) at UAP.
 
 ## 📚 Algorithm Categories & Examples
-
 ### 1. 🧨 Brute Force
 
 * Try all possible solutions
