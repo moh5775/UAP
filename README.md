@@ -131,7 +131,8 @@ Make the best choice at each step, hoping it leads to the global best solution.
 
 Example: <br>
 [*Coin Change Problem (min coins)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Coin%20Change), <br>
-[*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm)
+[*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm),<br>
+[*Fractional Knapsack*](https://github.com/moh5775/UAP/tree/main/DSA%202%20(Fabliha%20Maam)/Fractional%20Knapsack)
 
 ### **4. Dynamic Programming (DP):** 
 Solve problems by storing the results of overlapping subproblems and reusing them.
