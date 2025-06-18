@@ -1,6 +1,6 @@
-# Helaly Miss' Lab Assesments
+# Helaly Miss' Lab Assessments
 
-This repository contains the lab assignments for [Java Course].
+This repository contains the lab assignments for the [Java Course].
 
 ## Lab Contents
 
@@ -76,7 +76,7 @@ This repository contains the lab assignments for [Java Course].
 <br><br>
 
 # DSA (Nayeema Ma'am)
-This repository contains the lab assignments for [DSA Course].
+This repository contains the lab assignments for the [DSA Course].
 
 ## Lab Contents
 ### Lab 1: Basic Codes
@@ -85,7 +85,7 @@ This repository contains the lab assignments for [DSA Course].
 ### Lab 2: Split + Searching(Binary + Linear)
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Split%20%2B%20Searching%20(Binary%20%2B%20Linear))
 - **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%202(Binary%20and%20Linear%20Search)/Question.jpg)
-### Lab 3.1: Bubble Sort , Insertion Sort , Interpolation Search
+### Lab 3.1: Bubble Sort, Insertion Sort, Interpolation Search
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%203(Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search)/Sort(Bubble%20%2B%20Insertion)%20%20%26%20Interpolation%20Search)
 - **Question**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%203(Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search)/Question.png)
 
@@ -105,4 +105,53 @@ This repository contains the lab assignments for [DSA Course].
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%207-1(Linked%20List)/Single%20Linked%20List.c)
 ### Lab 7.2: Doubly Linked List
 - **Code**: [Click](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayeema%20Maam)%20/Lab%207-1(Linked%20List)/Doubly%20Linked%20List.c)
-  
+
+
+<br><br>
+
+# DSA II (Fabliha Ma'am)
+This repository contains the necessary materials for the [DSA II Course].
+## Algorithms
+### **1. Brute Force Technique:** Try all possible solutions and pick the best.
+
+Example: *Linear Search* — check every element one by one.
+
+### **2. Divide and Conquer:** Divide the problem into smaller subproblems, solve them, and combine the results.
+
+Example: Merge Sort, Quick Sort
+
+### **3. Greedy Algorithm:** Make the best choice at each step hoping it leads to the global best solution.
+
+Example: Coin Change Problem (min coins), Kruskal’s Algorithm (for Minimum Spanning Tree)
+
+### **4. Dynamic Programming (DP):** Solve problems by storing results of overlapping subproblems and reusing them.
+
+Example: Fibonacci Series, 0/1 Knapsack, Longest Common Subsequence (LCS)
+
+### **5. Backtracking:** Try one option, if it fails, backtrack and try another.
+
+Example: N-Queens Problem, Sudoku Solver
+
+### **6. Graph Algorithms:** Algorithms that work on graphs (nodes and edges).
+
+Examples:
+
+*DFS / BFS* – For graph traversal
+
+*Dijkstra's Algorithm* – Shortest path (no negative weights)
+
+*Bellman-Ford* – Works with negative weights
+
+*Kruskal’s / Prim’s* – For Minimum Spanning Tree (MST)
+
+### **7. Tree Algorithms:** Algorithms designed for tree data structures (a special type of graph).
+
+Examples:
+
+*Tree Traversals* – Inorder, Preorder, Postorder
+
+*Binary Search Tree operations* – Insert, Delete, Search
+
+### **8. Approximation Algorithm: Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
+
+Example: *Traveling Salesman* Problem using Nearest Neighbor heuristic
