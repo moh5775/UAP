@@ -121,7 +121,7 @@ Example: [*Linear Search*](https://github.com/moh5775/UAP/blob/main/DSA%20(Nayee
 Divide the problem into smaller subproblems, solve them, and combine the results.
 
 Example: 
-[*Merge Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Merge%20Sort), 
+[*Merge Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Merge%20Sort), <br>
 [*Quick Sort*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Quick%20Sort), 
 [*Binary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Binary%20Search/Process%201), 
 [*Ternary Search*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Ternary%20Search)
