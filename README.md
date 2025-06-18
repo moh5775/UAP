@@ -126,18 +126,18 @@ Divide the problem into smaller subproblems, solve them, and combine the results
 ### 🤑 **3. Greedy Algorithm:** 
 Make the best choice at each step, hoping it leads to the global best solution.
 
-**Example:** <br>
-[*Coin Change Problem (min coins)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Coin%20Change), <br>
-[*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm),<br>
-[*Fractional Knapsack*](https://github.com/moh5775/UAP/tree/main/DSA%202%20(Fabliha%20Maam)/Fractional%20Knapsack)
+**Example:**
+- [*Coin Change Problem (min coins)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Coin%20Change)
+- [*Kruskal’s Algorithm (for Minimum Spanning Tree)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm)
+- [*Fractional Knapsack*](https://github.com/moh5775/UAP/tree/main/DSA%202%20(Fabliha%20Maam)/Fractional%20Knapsack)
 
 ### 🧵 **4. Dynamic Programming (DP):** 
 Solve problems by storing the results of overlapping subproblems and reusing them.
 
-**Example:** <br>
-[*Fibonacci Series*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Fibonacci/Complexity%3A%20O(n)%20(efficient%20with%20memoization)), <br>
-[*0/1 Knapsack*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/0-1%20Knapsack), <br>
-[*Longest Common Subsequence (LCS)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/LCS)
+**Example:**
+- [*Fibonacci Series*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Fibonacci/Complexity%3A%20O(n)%20(efficient%20with%20memoization))
+- [*0/1 Knapsack*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/0-1%20Knapsack)
+- [*Longest Common Subsequence (LCS)*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/LCS)
 
 ### 🔙 **5. Backtracking:** 
 Try one option; if it fails, backtrack and try another.
@@ -149,27 +149,27 @@ Algorithms that work on graphs (nodes and edges).
 
 **Examples:**
 
-*[DFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/DFS) / [BFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/BFS)* – For graph traversal
+- *[DFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/DFS) / [BFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/BFS)* – For graph traversal
 
-[*Dijkstra's Algorithm*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Dijkstra%20Algorithm) – Shortest path (no negative weights)
+- [*Dijkstra's Algorithm*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Dijkstra%20Algorithm) – Shortest path (no negative weights)
 
-[*Bellman-Ford*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Bellman-Ford) – Works with negative weights
+- [*Bellman-Ford*](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Bellman-Ford) – Works with negative weights
 
-*[Kruskal](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm) / [Prim’s](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Prim's%20Algorithm)* – For Minimum Spanning Tree (MST)
+- *[Kruskal](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Krushkal%20Algorithm) / [Prim’s](https://github.com/moh5775/UAP/blob/main/DSA%202%20(Fabliha%20Maam)/Prim's%20Algorithm)* – For Minimum Spanning Tree (MST)
 
 ### 🌳 **7. Tree Algorithms:** 
 Algorithms are designed for tree data structures (a special type of graph).
 
 **Examples:**
 
-*Tree Traversals* – Inorder, Preorder, Postorder
+- *Tree Traversals* – Inorder, Preorder, Postorder
 
-*Binary Search Tree operations* – Insert, Delete, Search
+- *Binary Search Tree operations* – Insert, Delete, Search
 
 ### 🎯 **8. Approximation Algorithm:** 
 Provides a "good enough" solution when exact solutions are too slow or hard (for NP-hard problems).
 
-**Example:** *Traveling Salesman* Problem using Nearest Neighbor heuristic
+**Example:** - *Traveling Salesman* Problem using Nearest Neighbor heuristic
 
 
 <br><br>
@@ -207,4 +207,117 @@ Provides a "good enough" solution when exact solutions are too slow or hard (for
 |                             | Dijkstra’s Algorithm       | **O(V²)** or **O((V + E) log V)**        |
 |                             | Bellman-Ford               | **O(V × E)**                             |
 | **Approximation Algorithm** | TSP (Nearest Neighbor)     | **O(n²)**                                |
+
+
+
+
+
+
+
+# 👩🏻‍🏫 DSA I – Nayeema Ma’am
+
+## 🧪 Lab Assignments
+
+| Lab            | Topics Covered                                    | Links                                                                                                                                                                                                                                |
+| -------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💻 **Lab 1**   | Basic C Codes                                     | [Codes & Question](https://github.com/moh5775/UAP/tree/main/DSA%20%28Nayeema%20Maam%29%20/Lab%201%28Basic%29)                                                                                                                        |
+| 💻 **Lab 2**   | Split + Binary & Linear Search                    | [Codes](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%202%28Binary%20and%20Linear%20Search%29/Split%20%2B%20Searching%20%28Binary%20%2B%20Linear%29)                                                    |
+| 💻 **Lab 3.1** | Bubble Sort, Insertion Sort, Interpolation Search | [Codes](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%203%28Bubble%20sort%20%2C%20Insertion%20sort%20%2CInterpolation%20search%29/Sort%28Bubble%20%2B%20Insertion%29%20%20%26%20Interpolation%20Search) |
+| 💻 **Lab 3.2** | Selection Sort                                    | [Code](https://github.com/moh5775/UAP/tree/main/DSA%20%28Nayeema%20Maam%29%20/Lab%203-2%28Selection%20Sort%29)                                                                                                                       |
+| 💻 **Lab 4**   | Stack (Basics)                                    | [Code](https://github.com/moh5775/UAP/tree/main/DSA%20%28Nayeema%20Maam%29%20/Lab%204%20%28Stack%20%28Beginning%29%29)                                                                                                               |
+| 💻 **Lab 5**   | Infix to Postfix Conversion                       | [Code](https://github.com/moh5775/UAP/tree/main/DSA%20%28Nayeema%20Maam%29%20/Lab%205%20%28Infix%20to%20Postfix%29)                                                                                                                  |
+| 💻 **Lab 6.1** | Linear Queue                                      | [Code](https://github.com/moh5775/UAP/tree/main/DSA%20%28Nayeema%20Maam%29%20/Lab%206%20%28Linear%20Queue%29)                                                                                                                        |
+| 💻 **Lab 6.2** | Circular Queue                                    | [Code](https://github.com/moh5775/UAP/tree/main/DSA%20%28Nayeema%20Maam%29%20/Lab%206-2%28Circular%20Queue%29)                                                                                                                       |
+| 💻 **Lab 7.1** | Singly Linked List                                | [Code](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%207-1%28Linked%20List%29/Single%20Linked%20List.c)                                                                                                 |
+| 💻 **Lab 7.2** | Doubly Linked List                                | [Code](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%207-1%28Linked%20List%29/Doubly%20Linked%20List.c)                                                                                                 |
+
+---
+
+# 👩🏻‍🏫 DSA II – Fabliha Ma’am
+
+### 📚 Algorithm Categories & Examples
+
+#### 1. 🧨 Brute Force
+
+* Try all possible solutions
+* 🔗 [Linear Search](https://github.com/moh5775/UAP/blob/main/DSA%20%28Nayeema%20Maam%29%20/Lab%202%28Binary%20and%20Linear%20Search%29/Split%20%2B%20Searching%20%28Binary%20%2B%20Linear%29)
+
+#### 2. ⚔️ Divide and Conquer
+
+* Break → Solve → Combine
+* 🔗 [Merge Sort](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Merge%20Sort)
+* 🔗 [Quick Sort](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Quick%20Sort)
+* 🔗 [Binary Search](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Binary%20Search/Process%201)
+* 🔗 [Ternary Search](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Ternary%20Search)
+
+#### 3. 🤑 Greedy
+
+* Take the best *local* choice
+* 🔗 [Coin Change (min coins)](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Coin%20Change)
+* 🔗 [Kruskal’s Algorithm](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Krushkal%20Algorithm)
+* 🔗 [Fractional Knapsack](https://github.com/moh5775/UAP/tree/main/DSA%202%20%28Fabliha%20Maam%29/Fractional%20Knapsack)
+
+#### 4. 🧵 Dynamic Programming
+
+* Solve overlapping subproblems and store results
+* 🔗 [Fibonacci (Memoized)](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Fibonacci/Complexity%3A%20O%28n%29%20%28efficient%20with%20memoization%29)
+* 🔗 [0/1 Knapsack](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/0-1%20Knapsack)
+* 🔗 [LCS](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/LCS)
+
+#### 5. 🔙 Backtracking
+
+* Explore one path → backtrack if needed
+* 🔗 [N-Queens](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/N-Queens%20in%20C%20%28Row-wise%20Backtracking%29)
+
+#### 6. 🌐 Graph Algorithms
+
+* DFS / BFS → 🔗 [DFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/DFS), [BFS](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/BFS)
+* Dijkstra → 🔗 [Dijkstra’s Algorithm](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Dijkstra%20Algorithm)
+* Bellman-Ford → 🔗 [Bellman-Ford](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Bellman-Ford)
+* MSTs → 🔗 [Prim’s](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Prim's%20Algorithm), [Kruskal](https://github.com/moh5775/UAP/blob/main/DSA%202%20%28Fabliha%20Maam%29/Krushkal%20Algorithm)
+
+#### 7. 🌳 Tree Algorithms
+
+* Traversals → Inorder, Preorder, Postorder
+* BST Operations → Insert, Delete, Search
+
+#### 8. 🎯 Approximation
+
+* Near-optimal for NP-Hard problems
+* 🔗 *TSP using Nearest Neighbor*
+
+---
+
+## 🔁 Multi-Category Algorithms
+
+| Algorithm         | Belongs To                         |
+| ----------------- | ---------------------------------- |
+| Prim’s, Kruskal’s | Graph + Greedy                     |
+| Dijkstra’s        | Graph + Greedy                     |
+| Bellman-Ford      | Graph + DP                         |
+| Binary / Ternary  | Divide & Conquer (+ Search / Opt.) |
+| 0/1 Knapsack      | DP + Optimization                  |
+| Backtracking      | Recursive + General                |
+
+---
+
+## ⏱️ Worst-Case Time Complexities
+
+| Category            | Algorithm           | Worst Case       |
+| ------------------- | ------------------- | ---------------- |
+| Brute Force         | Linear Search       | O(n)             |
+|                     | Power Set           | O(2ⁿ)            |
+| Divide & Conquer    | Merge Sort          | O(n log n)       |
+|                     | Quick Sort          | O(n²)            |
+|                     | Binary/Ternary      | O(log n)         |
+| Greedy              | Kruskal’s           | O(E log E)       |
+|                     | Fractional Knapsack | O(n log n)       |
+| Dynamic Programming | 0/1 Knapsack        | O(nW)            |
+|                     | LCS                 | O(n × m)         |
+| Backtracking        | N-Queens            | O(N!)            |
+| Graph Algorithms    | DFS/BFS             | O(V + E)         |
+|                     | Dijkstra            | O((V + E) log V) |
+|                     | Bellman-Ford        | O(V × E)         |
+
+
 
