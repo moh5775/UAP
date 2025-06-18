@@ -1,73 +1,27 @@
 # 👩🏻‍🏫 Helaly Miss' Lab Assessments
 
-This repository contains the lab assignments for the [Java Course].
+This repository contains all Java lab assignments conducted by Helaly Ma'am at UAP.
 
-## Lab Contents
+---
 
-### 💻 Lab 1
-- **[Minimum Maximum](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/MinMax.java)**: A program to find the minimum and maximum values from an array of integers.  
-- **[Sum-Average](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/SumAverage.java)**: A program to calculate the summation and average of an array of integers.
-- **[Question](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg)**: Contains the problem statement for Lab 1. 
-### 💻 Lab 2
-- **[Codes](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%202)**
-- **Questions**: [(1 to 6)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(1%20-%206).jpg) / [(7 to 10)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(7%20-%2010).jpg)
+## 📋 Lab Summary Table
 
-### 💻 Lab 3
-#### Bank Management System(Beginner)
-- **[Bank (Main Class)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Bank.java)**
-- **[Bank Account](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/BankAccount.java)**
-- **[Instruction](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Question.jpg)**
-#### UapBazar Management System(Beginner)
-- **[UapBazar (Main Class)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/UapBazar%20.%20java)**
-- **[Product](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Product%20.%20java)**
-- **[Instruction](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Question%20.jpg)**
+| Lab | Project Name                      | Description/Topics                     | Code Link | Instructions |
+|-----|----------------------------------|----------------------------------------|-----------|--------------|
+| 1   | Minimum & Sum-Average            | Array operations (min, max, sum, avg) | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%201) | [📄](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%201/Question%20.jpg) |
+| 2   | Basic Problems (1–10)            | Fundamental Java questions             | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%202) | [1–6](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(1%20-%206).jpg) / [7–10](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%202/Question%20(7%20-%2010).jpg) |
+| 3   | Bank & UapBazar (Beginner)       | Classes & objects                      | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%203) | [Bank](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-1/Question.jpg) / [Bazar](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%203/Problem-2/Question%20.jpg) |
+| 4   | Bank & UapBazar (Basic)          | Constructor, basic class logic         | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%204) | [P1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Queation%201.jpg), [P2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%202.jpg), [P3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%203.jpg) |
+| 5   | Bank + Student Management        | Multiple class handling                | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%205) | [P1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg), [P2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg), [P3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg) |
+| 6   | Book Store & Online Store        | OOP + Menu-driven console apps         | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206) | [Book](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg) / [Online](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg) |
+| 7   | Pharmacy (Beginner)              | Classes, arrays                        | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207) | — |
+| 8   | Pharmacy (Basic)                 | Better object management               | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Classes) | [📄](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Question) |
+| 9   | Pharmacy (Backend Only)          | Modularization, class logic            | [Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Project%20(Backend%20Codes)) | [📄](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Instructions) |
+| 10  | MedPharma Final Project          | Complete project with all features     | [Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%2010) | — |
 
-### 💻 Lab 4
-#### Bank Management System(Basic)
-- **[Bank (Main Class)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%201/Bank)**
-- **[Bank Account](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%201/BankAccount)**
-#### UapBazar Management System(Basic)
-- **[UapBazar (Main Class)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/UapBazar)**
-- **[Product](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Problem%202/Product)**
-#### Instructions:
-[Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Queation%201.jpg) [Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%202.jpg) [Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%204/Question%203.jpg)
+---
 
-### 💻 Lab 5
-#### Bank Management System
-- **[Bank (Main Class)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/Bank)**
-- **[Bank Account](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%201/BankAccount)**
-#### Student Management System
-- **[UapCSE (Main Class)](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/UapCSE)**
-- **[Student](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Problem%202/Student)**
-#### Instructions:  
-[Page1](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%201.jpg) 
-[Page2](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%201).jpg) 
-[Page3](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%205/Queation%202%20(Part%202).jpg)
-
-### 💻 Lab 6
-#### Book Store Application
-- **[Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Book%20Store%20Application)**
-- **[Instructions](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%201%20(Book%20Store%20Application).jpg)**
-#### Online Store Management
-- **[Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%206/Online%20Store)**
-- **[Instructions](https://github.com/moh5775/UAP/blob/main/Helaly%20Miss/Lab%206/Question%202%20(Online%20Store).jpg)**
-
-### 💻 Lab 7
-#### [Pharmacy Management System (Beginner)](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%207): 
-
-
-### 💻 Lab 8
-#### Pharmacy Management System (Basic)
-- **[Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Classes)**
-- **[Instructions](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%208/Question)**
-
-### 💻 Lab 9
-#### Pharmacy Management System (Complete Backend Codes)
-- **[Code](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Project%20(Backend%20Codes))**
-- **[Instructions](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%209/Instructions)**
-###  💻 Lab 10
-#### Complete Project (MedPharma Management System): 
-[Click Here](https://github.com/moh5775/UAP/tree/main/Helaly%20Miss/Lab%2010)
+📌 *Every lab folder includes codes and questions/images wherever applicable. Most projects follow beginner to intermediate OOP principles.*
 
 
 
